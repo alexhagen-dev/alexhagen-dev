@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**alexhagen-dev/alexhagen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Computer Programming graduate from Algonquin College with an interest in backend systems, workflow tooling, data validation, and operational software.
 
-Here are some ideas to get you started:
+Currently building Python-based internal tools and workflow-oriented projects focused on parsing, validation, review pipelines, and practical software design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+* Languages: Python, Java, JavaScript, SQL
+* Backend / APIs: REST APIs, JSON, HTTP
+* Databases: SQLite, MySQL
+* Tools: Git, Docker, Streamlit
+* Interests: workflow systems, operational tooling, validation pipelines
